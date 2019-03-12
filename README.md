@@ -1,5 +1,5 @@
 # BasicMathFunctionsLibrary
-This is a Basic Math Functions Library.
+This is a Basic Math Functions Library written in C# .NetCore 2.0
 
 # How to use
 1.) Add a reference to the SimpleBasicMathFunctions.dll located in the debug folder.
