@@ -12,8 +12,11 @@ This is Version 1.0.0.0
 
 # Current functions are:
 => Addition with 2 Values *=> Dobule and Int already support 3 Values*
+
 => Subtraction with 2 Values
+
 => Multiplication with 2 Values
+
 => Division with 2 Values
 
 # Future (V 1.0.1.0)
