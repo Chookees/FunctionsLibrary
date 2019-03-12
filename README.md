@@ -3,6 +3,7 @@ This is a Basic Math Functions Library.
 
 # How to use
 1.) Add a reference to the SimpleBasicMathFunctions.dll located in the debug folder.
+
 2.) Use it in Code like "SimpleBasicMathFunction.*The function you want to use*.Calculate*Datatype you need to be calculated*(Values);"
 
 
