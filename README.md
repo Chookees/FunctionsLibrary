@@ -11,7 +11,7 @@ This is a Basic Math Functions Library written in C# .NetCore 2.0
 This is Version 1.0.0.0
 
 # Current functions are:
-=> Addition with 2 Values *=> Dobule and Int already support 3 Values*
+=> Addition with 2 Values *=> Double and Int already support 3 Values*
 
 => Subtraction with 2 Values
 
