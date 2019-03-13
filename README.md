@@ -1,3 +1,5 @@
+[![Download Functions Library](https://img.shields.io/sourceforge/dt/functionslibrary.svg)](https://sourceforge.net/projects/functionslibrary/files/latest/download)
+
 # Functions Library
 This is a Functions Library/Wrapper written in C# .NetCore 2.0
 
