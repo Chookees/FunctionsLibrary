@@ -24,7 +24,7 @@ This is a Functions Library/Wrapper written in C# .NetCore 2.0
 	=> Specific errors instead of none or a false bool
 
 
-**Current** Version 1.1.1.1
+**Current Version 1.1.1.1**
 	
 	=> Fixed a bug where TextFile.Create would not create a TextFile
 	
