@@ -5,7 +5,8 @@ This is a Basic Math Functions Library written in C# .NetCore 2.0
 # How to use
 1.) Add a reference to the MathFunctions.dll located in the debug folder.
 
-2.) Use it in Code like "MathFunction.*Basic/Algebraic*.**The function you want to use e.g 'Subtract'**.Calculate*DataType*(*Place your Values here*);"
+2.) Use it in your Code like: "Console.WriteLine(MathFunction.Basic.Subtract.CalculateDouble(5.5,5));"
+      => Result will be = *"0.5"*
 
 
 # Notes
