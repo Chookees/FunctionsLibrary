@@ -7,7 +7,7 @@ This is a Basic Math Functions Library written in C# .NetCore 2.0
 
 2.) If you use Console use it like: "Console.WriteLine(MathFunction.Basic.Subtract.CalculateDouble(5.5, 5));"
 
-    If you use Forms or WPF: "textBox1.Text = MathFunction.Basic.Subtract.CalculateDouble(5.5, 5).ToString();"
+ Or if you use Forms or WPF: "textBox1.Text = MathFunction.Basic.Subtract.CalculateDouble(5.5, 5).ToString();"
 
 => Result will be = 0.5
 
