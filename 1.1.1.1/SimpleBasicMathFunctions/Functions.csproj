@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <Authors>Chookees(Artur Bobb)</Authors>
+    <Company>AZ Software Development</Company>
+    <Product>Basic Math Functions Library</Product>
+    <Description>Just add a reference and type like "SimpleBasicMathFunctions.*What you want e.g (Add/Divide/Multi/Subtract)*.Calculate*Datatype*();"</Description>
+    <Copyright>AZ Software Development 2019</Copyright>
+    <AssemblyVersion>1.0.1.0</AssemblyVersion>
+    <FileVersion>1.0.1.0</FileVersion>
+    <Version>1.0.1.0</Version>
+  </PropertyGroup>
+
+</Project>
