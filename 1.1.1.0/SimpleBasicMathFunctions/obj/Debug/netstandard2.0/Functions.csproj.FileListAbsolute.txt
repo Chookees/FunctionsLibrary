@@ -1,0 +1,9 @@
+C:\Users\arturb\source\repos\SimpleBasicMathFunctions\SimpleBasicMathFunctions\bin\Debug\netstandard2.0\Functions.deps.json
+C:\Users\arturb\source\repos\SimpleBasicMathFunctions\SimpleBasicMathFunctions\bin\Debug\netstandard2.0\Functions.dll
+C:\Users\arturb\source\repos\SimpleBasicMathFunctions\SimpleBasicMathFunctions\bin\Debug\netstandard2.0\Functions.pdb
+C:\Users\arturb\source\repos\SimpleBasicMathFunctions\SimpleBasicMathFunctions\obj\Debug\netstandard2.0\Functions.csprojAssemblyReference.cache
+C:\Users\arturb\source\repos\SimpleBasicMathFunctions\SimpleBasicMathFunctions\obj\Debug\netstandard2.0\Functions.csproj.CoreCompileInputs.cache
+C:\Users\arturb\source\repos\SimpleBasicMathFunctions\SimpleBasicMathFunctions\obj\Debug\netstandard2.0\Functions.AssemblyInfoInputs.cache
+C:\Users\arturb\source\repos\SimpleBasicMathFunctions\SimpleBasicMathFunctions\obj\Debug\netstandard2.0\Functions.AssemblyInfo.cs
+C:\Users\arturb\source\repos\SimpleBasicMathFunctions\SimpleBasicMathFunctions\obj\Debug\netstandard2.0\Functions.dll
+C:\Users\arturb\source\repos\SimpleBasicMathFunctions\SimpleBasicMathFunctions\obj\Debug\netstandard2.0\Functions.pdb
