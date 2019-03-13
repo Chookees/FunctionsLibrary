@@ -1,5 +1,5 @@
 # Functions Library
-This is a Functions Library written in C# .NetCore 2.0
+This is a Functions Library/Wrapper written in C# .NetCore 2.0
 
 
 # How to use
