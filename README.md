@@ -11,6 +11,10 @@ This is a Functions Library/Wrapper written in C# .NetCore 2.0
 
 => Result will be = 0.5
 
+# Bugs and Workarounds
+	
+	=> IO.TextFile.Create not working | Workaround => IO.TextFile.Write(PathToDestination+"/"+Filename+".txt", Text);
+
 
 # Notes/Changelog
 **Current** Version 1.1.1.0
