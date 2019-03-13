@@ -5,33 +5,43 @@ This is a Functions Library/Wrapper written in C# .NetCore 2.0
 # How to use
 1.) Add a reference to the MathFunctions.dll located in the debug folder.
 
-2.) If you use Console use it like: "Console.WriteLine(Functions.Math.Basic.Subtract.CalculateDouble(5.5, 5));"
+2.) If you use Console use it like: "Console.WriteLine(Functions.Math.Subtract.CalculateDouble(5.5, 5));"
 
  Or if you use Forms or WPF: "textBox1.Text = MathFunction.Basic.Subtract.CalculateDouble(5.5, 5).ToString();"
 
 => Result will be = 0.5
 
 # Bugs and Workarounds
-	
-	=> IO.TextFile.Create not working | Workaround => IO.TextFile.Write(PathToDestination+"/"+Filename+".txt", Text);
 
+/
 
 # Notes/Changelog
-**Current** Version 1.1.1.0
 
-	=> Changed Project name to Functions
+**Current** Version 1.1.1.1
 	
-	=> Created Functions.Math.Algebraic.Pi
+	=> Fixed a bug where TextFile.Create would not create a TextFile
 	
-	=> Created Functions.Math.Functions.Number
+	=> Changed Namespace of Functions.Math
 	
-	=> Created Functions.Date
+	=> Fixes a bug where Math.SquareRoot.Calculate would not deliver the right answer
+
+
+Version 1.1.1.0
+
+=> Changed Project name to Functions
+
+=> Created Functions.Math.Pi
+
+=> Created Functions.Math.Number
 	
-	=> Created Functions.Start
+=> Created Functions.Date
 	
-	=> Created Functions.TextFile
+=> Created Functions.Start
 	
-	=> Update all other
+=> Created Functions.TextFile
+	
+=> Update all other
+
 
 Version 1.0.1.0 
 
