@@ -11,11 +11,12 @@ This is a Basic Math Functions Library written in C# .NetCore 2.0
 
 
 # Notes/Changelog
-**Current** Version 1.0.1.0 
+	**Current** Version 1.0.1.0 
 
-=> All Basic functions with up to 5 Values.
+	=> All Basic functions with up to 5 Values.
 
-=> Square root function added with classic and repeating function.
+	=> Square root function added with classic and repeating function.
+
 	
 Version 1.0.0.0 
 
