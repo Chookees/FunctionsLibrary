@@ -1,26 +1,23 @@
 # BasicMathFunctionsLibrary
 This is a Basic Math Functions Library written in C# .NetCore 2.0
 
-# How to use
-1.) Add a reference to the SimpleBasicMathFunctions.dll located in the debug folder.
 
-2.) Use it in Code like "SimpleBasicMathFunction.*The function you want to use*.Calculate*Datatype you need to be calculated*(Values);"
+# How to use
+1.) Add a reference to the MathFunctions.dll located in the debug folder.
+
+2.) Use it in Code like "MathFunction.*Basic/Algebraic*.*The function you want to use e.g 'Subtract'*.Calculate*DataType*(*Place your Values here*);"
 
 
 # Notes
-This is Version 1.0.0.0
+This is Version 1.0.1.0
 
 # Current functions are:
-=> Addition with 2 Values *=> Double and Int already support 3 Values*
+=> Addition with with up to 5 Values
 
-=> Subtraction with 2 Values
+=> Subtraction with up to 5 Values
 
-=> Multiplication with 2 Values
+=> Multiplication with up to 5 Values
 
-=> Division with 2 Values
+=> Division with up to 5 Values
 
-# Future (V 1.0.1.0)
-=> Support up to 5 Values for each Calculation
-
-# Future (V 1.2.0.0)
-=> 2 more Functions than just the basics.
+=> Square Root calculation (Classic and with repeat)
