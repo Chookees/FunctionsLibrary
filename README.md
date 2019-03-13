@@ -33,8 +33,8 @@ This is a Functions Library/Wrapper written in C# .NetCore 2.0
 	=> Changed Namespace of Functions.Math
 	
 	=> Fixes a bug where Math.SquareRoot.Calculate would not deliver the right answer
-	
-	[![Download Functions Library](https://a.fsdn.com/con/app/sf-download-button)](https://sourceforge.net/projects/functionslibrary/files/latest/download)
+
+[![Download Functions Library](https://a.fsdn.com/con/app/sf-download-button)](https://sourceforge.net/projects/functionslibrary/files/latest/download)
 
 
 Version 1.1.1.0
