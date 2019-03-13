@@ -7,11 +7,11 @@ This is a Functions Library/Wrapper written in C# .NetCore 2.0
 # How to use
 1.) Add a reference to the MathFunctions.dll located in the debug folder.
 
-2.) If you use Console use it like: "Console.WriteLine(Functions.Math.Subtract.CalculateDouble(5.5, 5));"
+2.) If you use Console use it like: "Console.WriteLine(Functions.Math.Pi.GetPi());"
 
- Or if you use Forms or WPF: "textBox1.Text = MathFunction.Basic.Subtract.CalculateDouble(5.5, 5).ToString();"
+ Or if you use Forms or WPF: "textBox1.Text = Functions.Math.Pi.GetPi().ToString();"
 
-=> Result will be = 0.5
+=> Result will be = 3.14
 
 # Bugs and Workarounds
 
