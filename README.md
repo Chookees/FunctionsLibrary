@@ -27,8 +27,11 @@ This is a Functions Library/Wrapper written in C# .NetCore 2.0
 
 **Current Version 1.1.2.0**
 	=> Get specific Folder paths combined with a File or not. Use with IO.GetPaths
+	
 	=> Folder Paths from Desktop/ProgramFiles/Documents/ApplicationData
+	
 	=> Perfomance increasement
+	
 
 Version 1.1.1.1
 	
