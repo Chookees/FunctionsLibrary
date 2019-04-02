@@ -25,14 +25,18 @@ This is a Functions Library/Wrapper written in C# .NetCore 2.0
 	
 	=> Specific errors instead of none or a false bool
 
+**Current Version 1.1.2.0**
+	=> Get specific Folder paths combined with a File or not. Use with IO.GetPaths
+	=> Folder Paths from Desktop/ProgramFiles/Documents/ApplicationData
+	=> Perfomance increasement
 
-**Current Version 1.1.1.1**
+Version 1.1.1.1
 	
-	=> Fixed a bug where TextFile.Create would not create a TextFile
+=> Fixed a bug where TextFile.Create would not create a TextFile
 	
-	=> Changed Namespace of Functions.Math
+=> Changed Namespace of Functions.Math
 	
-	=> Fixes a bug where Math.SquareRoot.Calculate would not deliver the right answer
+=> Fixes a bug where Math.SquareRoot.Calculate would not deliver the right answer
 
 [![Download Functions Library](https://a.fsdn.com/con/app/sf-download-button)](https://sourceforge.net/projects/functionslibrary/files/latest/download)
 
@@ -88,3 +92,5 @@ Version 1.0.0.0
 => Start - SpecificProgram ; SetPriorityTaskRealtime
 
 => TextFile - Create ; WriteWithOverwrite ; Write ; Read ; Delete
+
+=> GetPaths - Get specific Paths, solo or combined with a given Filename
